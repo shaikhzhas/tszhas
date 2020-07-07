@@ -14,3 +14,4 @@ htmlcov
 tszhas.egg-info
 build
 dist
+.DS_Store
